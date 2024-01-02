@@ -19,4 +19,7 @@ public class A {
     public int getY() {
         return y;
     }
+
+    public void test()
+    {}
 }
